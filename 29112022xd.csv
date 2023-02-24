@@ -1,3 +1,0 @@
-Algorithm, Date, Population Count, alpha, beta, stagnation, best after, best, execution time, other variables 
-Algorithm, Date, Population Count, alpha, beta, stagnation, best after, best, execution time, other variables 
-AS, 29112022-074051, 26, 5, 10, 16, 5, 5627852, 2.633302688598633, pheromone_preference = 10 |heuristic_preference = 5 |Qval = 1 |evaporation = 0.5 |startpheromone = 2.0 |globalbest = <ant_defs.QapAnt object at 0x000001F6C7841790> | 

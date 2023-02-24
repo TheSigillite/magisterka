@@ -1,3 +1,0 @@
-Algorithm, Date, Population Count, alpha, beta, stagnation, best after, best, execution time, other variables 
-AS, 19112022-091743, 170, 1, 1, 35, 24, 16413.0, 1637.6778256893158, pheromone_preference = 1 |heuristic_preference = 1 |Qval = 1 |evaporation = 0.5 |startpheromone = 1.0 |globalbest = <ant_defs.Ant object at 0x0000016E97075940> | 
-AS, 19112022-093947, 170, 1, 1, 28, 17, 16453.0, 1324.3837389945984, pheromone_preference = 1 |heuristic_preference = 1 |Qval = 1 |evaporation = 0.5 |startpheromone = 1.0 |globalbest = <ant_defs.Ant object at 0x0000016E97075DF0> | 
